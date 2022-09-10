@@ -1,0 +1,13 @@
+.exemple {
+    background-color: black;
+    height: 500px;
+    width: 100%;
+}
+
+.presentation {
+    background: blue;
+}
+
+.projects {
+    background: linear-gradient(180deg, white 0%, rgb(100, 255, 255) 50%, white 100%) ;
+}
